@@ -1,5 +1,5 @@
 #include <Windows.h>
-#include "src/System/Framework/Framework.h"
+#include "src/Framework/Framework.h"
 
 //	メモリリークチェック用
 #if _DEBUG

@@ -1,6 +1,6 @@
 #pragma once
-#include "../pch/pch.h"
-#include "../../Utility/Singleton/Singleton.h"
+#include "../System/pch/pch.h"
+#include "../Utility/Singleton/Singleton.h"
 
 class Framework : public Singleton<Framework>
 {

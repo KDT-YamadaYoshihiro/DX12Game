@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="src\System\pch\pch.h" />
-    <ClInclude Include="src\System\Framework\Framework.h" />
+    <ClInclude Include="src\Framework\Framework.h" />
     <ClInclude Include="src\System\DirectX\DirectX.h" />
     <ClInclude Include="src\System\System.h" />
     <ClInclude Include="src\Utility\Singleton\Singleton.h" />
@@ -151,7 +151,7 @@
       <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">pch.h</PrecompiledHeaderFile>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="src\System\Framework\Framework.cpp" />
+    <ClCompile Include="src\Framework\Framework.cpp" />
     <ClCompile Include="src\System\DirectX\DirectX.cpp" />
     <ClCompile Include="src\System\Window\Window.cpp" />
   </ItemGroup>

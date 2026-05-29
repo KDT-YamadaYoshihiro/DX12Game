@@ -1,5 +1,4 @@
-#include <d3d12.h>
-#include <dxgi1_6.h>
+#include "../pch/pch.h"
 #include "../../Utility/Singleton/Singleton.h"
 
 template<class T>

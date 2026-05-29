@@ -1,4 +1,5 @@
-﻿  DirectX.cpp
-  Window.cpp
-  コードを生成中...
+﻿  Framework.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\koyo\source\repos\DX12Game\Engine\src\System\Framework\Framework.cpp(13,32): warning C4244: '引数': 'const float' から 'UINT' への変換です。データが失われる可能性があります。
+C:\Users\koyo\source\repos\DX12Game\Engine\src\System\Framework\Framework.cpp(13,17): warning C4244: '引数': 'const float' から 'UINT' への変換です。データが失われる可能性があります。
   Engine.vcxproj -> C:\Users\koyo\source\repos\DX12Game\x64\Debug\Engine.lib

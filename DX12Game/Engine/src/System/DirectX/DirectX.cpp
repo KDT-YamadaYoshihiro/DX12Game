@@ -1,8 +1,5 @@
 #include "DirectX.h"
 
-#pragma comment(lib,"d3d12.lib")
-#pragma comment(lib,"dxgi.lib")
-
 //DirectX::DirectX()
 //	: Device(nullptr)
 //	, Factory(nullptr)

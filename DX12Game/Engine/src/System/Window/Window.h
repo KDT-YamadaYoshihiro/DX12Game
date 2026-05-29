@@ -1,6 +1,5 @@
 #pragma once
-#include <Windows.h>
-//#include "Utility/Singleton/Singleton.h"
+#include "../pch/pch.h"
 #include "../../Utility/Singleton/Singleton.h"
 
 class Window : public Singleton<Window>

@@ -1,6 +1,7 @@
 #pragma once
 #include <Windows.h>
-#include "Utility/Singleton/Singleton.h"
+//#include "Utility/Singleton/Singleton.h"
+#include "../../Utility/Singleton/Singleton.h"
 
 class Window : public Singleton<Window>
 {
@@ -72,7 +73,4 @@ private:
 	WNDCLASSEX WindowClass;
 
 	static Window* Instance;
-
-
 };
-
